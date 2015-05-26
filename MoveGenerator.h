@@ -1,11 +1,3 @@
-//
-//  MoveGenerator.h
-//  ChineseChess
-//
-//  Created by 杨子健 on 15/5/14.
-//  Copyright (c) 2015年 Young. All rights reserved.
-//
-
 #ifndef __ChineseChess__MoveGenerator__
 #define __ChineseChess__MoveGenerator__
 #include "define.h"
